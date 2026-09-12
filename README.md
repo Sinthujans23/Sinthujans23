@@ -2,39 +2,55 @@
 
 # 👋 Hi, I'm Sinthujan S.
 
+### 🎓 BSc (Hons) Artificial Intelligence — University of Moratuwa 🇱🇰
 
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making;Building+Agentic+AI+Systems;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Building+Intelligent+Developer+Tools" alt="Typing Animation">
 
-## 🧑‍💻 About Me
+<br><br>
 
-🎓 **BSc (Hons) in Artificial Intelligence** — University of Moratuwa 🇱🇰
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=tensorflow\&logoColor=orange)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-5B21B6?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
 
-🤖 AI/ML Engineer in the making, passionate about building intelligent systems that solve real-world problems.
-
-I enjoy working at the intersection of:
-
-**Artificial Intelligence × Software Engineering × Automation**
-
-Currently exploring **Agentic AI, LLM applications, RAG, AI agents, AI-powered developer tools, and intelligent automation.**
-
-```text
-🚀 Build → 🧪 Experiment → 📊 Evaluate → 🧠 Learn → 🔄 Improve
-```
+</div>
 
 ---
 
-## 🧠 What I'm Working On
+# 🧑‍💻 About Me
+
+I'm an **Artificial Intelligence undergraduate at the University of Moratuwa**, interested in building practical AI systems that solve real-world problems.
+
+My current focus is around:
+
+* 🤖 **Agentic AI**
+* 🧠 **Large Language Models**
+* 🔎 **Retrieval-Augmented Generation**
+* 🧩 **AI Agents & Multi-Agent Systems**
+* 🛠️ **AI Developer Tools**
+* 🧪 **AI-powered Automation**
+* 📊 **Machine Learning**
+* 👁️ **Computer Vision**
+
+I enjoy going beyond simply using AI APIs — I like understanding **how AI systems work, how they can be evaluated, and how they can be integrated into real software systems.**
+
+---
+
+# 🚀 What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Agentic AI
+## 🤖 Agentic AI
 
-Building AI systems that can:
+Building intelligent agents that can:
 
-* Reason about tasks
-* Create plans
+* Understand tasks
+* Plan solutions
 * Use tools
 * Execute actions
 * Evaluate results
@@ -44,9 +60,9 @@ Building AI systems that can:
 
 <td width="50%">
 
-### 🧪 AI-Powered QA
+## 🧪 AI-Powered QA
 
-Developing **QAgent**, an Agentic QA Engineer that combines LLMs with Playwright automation to generate and execute software tests.
+Developing **QAgent**, an Agentic QA Engineer that combines LLMs, RAG and Playwright to automate software testing.
 
 </td>
 </tr>
@@ -54,29 +70,29 @@ Developing **QAgent**, an Agentic QA Engineer that combines LLMs with Playwright
 <tr>
 <td width="50%">
 
-### 🔎 RAG & LLM Applications
+## 🔎 RAG & LLM Apps
 
 Exploring:
 
-* Retrieval-Augmented Generation
 * Embeddings
-* Vector Search
-* Grounded AI
+* Vector search
+* Semantic retrieval
+* Grounded generation
 * LLM evaluation
 
 </td>
 
 <td width="50%">
 
-### 🛠️ AI Developer Tools
+## 🛠️ AI Developer Tools
 
-Building practical developer tools using:
+Building tools that combine:
 
 * LLMs
-* AI Agents
-* Code Generation
+* Code generation
 * Automation
-* Developer workflows
+* AI agents
+* Software engineering workflows
 
 </td>
 </tr>
@@ -84,73 +100,78 @@ Building practical developer tools using:
 
 ---
 
-# 🚀 Featured Project
+# ⭐ Featured Project
 
 ## 🤖 QAgent — Agentic QA Engineer
 
-> An AI-powered QA automation system designed to transform natural-language requirements into executable Playwright tests.
+**QAgent** is an AI-powered QA automation system designed to transform natural-language requirements into executable Playwright tests.
 
-### ✨ Core Capabilities
-
-* 🧠 AI-based test planning
-* 📝 Automated test-script generation
-* 🔍 UI inspection
-* ▶️ Automated test execution
-* 🩹 Self-healing UI locators
-* 👤 Human-in-the-loop validation
-* 📊 Test reporting
-* 🔎 RAG-based knowledge retrieval
-* 🧩 Agent-based architecture
-
-### ⚙️ Technologies
-
-`Agentic AI` `LLMs` `RAG` `Playwright` `MCP` `TypeScript` `Python` `FastAPI`
-
-🔗 **Repository:** [QAgent](https://github.com/YOUR_USERNAME/YOUR_QAGENT_REPO)
-
----
-
-# 🧩 AI & Machine Learning
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-</div>
-
----
-
-# 🧠 Generative AI & LLMs
-
-<div align="center">
-
-![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7B61FF?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge)
-
-</div>
-
-### Areas of Interest
+### 🔥 Key Features
 
 ```text
-🤖 Agentic AI
-🧠 Large Language Models
-🔎 Retrieval-Augmented Generation
-🧩 Multi-Agent Systems
-🔗 Model Context Protocol
-🛠️ AI Developer Tools
-📊 LLM Evaluation
-⚡ AI Automation
-👁️ Computer Vision
-🏗️ AI System Design
+Natural Language Requirement
+            ↓
+     Test Planner Agent
+            ↓
+       UI Inspection
+            ↓
+   Test Script Generator
+            ↓
+     Playwright Tests
+            ↓
+       Test Executor
+            ↓
+     Result Analysis
+            ↓
+      Self-Healing
 ```
+
+### ✨ Capabilities
+
+* 🧠 AI-based test planning
+* 📝 Automated test generation
+* 🔍 UI inspection
+* ▶️ Automated execution
+* 🩹 Self-healing UI locators
+* 👤 Human-in-the-loop validation
+* 🔎 RAG-based knowledge retrieval
+* 📊 Test reporting
+* 📸 Screenshots & traces
+
+### 🛠️ Built With
+
+`Python` `TypeScript` `LLMs` `RAG` `Playwright` `MCP` `FastAPI`
+
+🔗 **Repository:**
+https://github.com/YOUR_USERNAME/YOUR_QAGENT_REPO
+
+---
+
+# 🧠 AI / ML Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+
+</div>
+
+---
+
+# 🤖 Generative AI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,docker,fastapi" />
+
+<br><br>
+
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-7B61FF?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-5C2D91?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -160,92 +181,96 @@ Building practical developer tools using:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
 
 </div>
 
-### Backend & Web
+### Web & Backend
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" />
 
 </div>
 
-### DevOps & Tools
+### Tools & Infrastructure
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
+</div>
+
+### Automation
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=playwright" />
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
-```text
-┌──────────────────────────────────────────────┐
-│ 🤖 Advanced Agentic AI                       │
-│ 🧠 LLM Engineering                           │
-│ 🔎 RAG & Semantic Search                     │
-│ 🔗 Model Context Protocol                    │
-│ 👥 Multi-Agent Architectures                 │
-│ 🛠️ AI Coding Agents                         │
-│ 📊 LLM Evaluation & Observability            │
-│ ⚡ Production AI Systems                     │
-└──────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Area                 | Focus                                     |
+| -------------------- | ----------------------------------------- |
+| 🤖 Agentic AI        | Planning, tool use & autonomous workflows |
+| 🧠 LLM Engineering   | LLM applications & optimization           |
+| 🔎 RAG               | Retrieval & semantic search               |
+| 🔗 MCP               | AI-to-tool integration                    |
+| 👥 Multi-Agent AI    | Agent collaboration                       |
+| 🛠️ AI Coding Agents | AI-powered development                    |
+| 📊 AI Evaluation     | Reliability & performance                 |
+| ⚡ AI Systems         | Production-ready AI applications          |
+
+</div>
 
 ---
 
-# 🔬 AI Research & Technical Writing
+# ✍️ AI Research & Technical Writing
 
-I regularly explore and analyze the latest developments in Artificial Intelligence.
+I'm also building a habit of **researching, analyzing and writing about AI technologies**.
 
-### Topics I write about
+### Topics I'm exploring
 
 * 🤖 Agentic AI
-* 🧠 Large Language Models
+* 🧠 LLMs
 * 🔎 RAG
 * 🧩 AI Agents
-* 🔗 MCP
+* 🔗 Model Context Protocol
 * 🛠️ AI Developer Tools
 * 📄 AI Research Papers
 * 🚀 Emerging AI Technologies
 * 🧪 AI Engineering
 * 📊 LLM Evaluation
 
-### ✍️ Follow My AI Journey
+### 🌐 Find My Content
 
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN)
+**LinkedIn:**
+https://www.linkedin.com/in/YOUR_LINKEDIN
 
-**Medium:** [Read my articles](https://medium.com/@YOUR_MEDIUM)
+**Medium:**
+https://medium.com/@YOUR_MEDIUM
 
-**Portfolio:** [Visit my portfolio](https://YOUR_PORTFOLIO)
+**Portfolio:**
+https://YOUR_PORTFOLIO
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -255,21 +280,11 @@ I regularly explore and analyze the latest developments in Artificial Intelligen
 
 ---
 
-# 🐍 My GitHub Contribution Journey
+# 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Sinthujan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night\&hide_border=true)](https://github.com/YOUR_USERNAME)
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
@@ -277,33 +292,15 @@ I regularly explore and analyze the latest developments in Artificial Intelligen
 
 # 🎯 My Goal
 
-> **Build intelligent systems that solve real-world problems — not just AI demos.**
+<div align="center">
 
-I want to continuously learn, experiment, build, evaluate, and share what I discover in the world of AI.
+### "Build intelligent systems that solve real-world problems — not just AI demos."
 
-```text
-                    ┌─────────────────┐
-                    │   AI + Ideas    │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │   Experiment    │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │     Build       │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │    Evaluate     │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │     Improve     │
-                    └────────┬────────┘
-                             ↓
-                    🚀 Real-World AI
-```
+<br>
+
+**Learn → Experiment → Build → Evaluate → Improve**
+
+</div>
 
 ---
 
@@ -312,29 +309,29 @@ I want to continuously learn, experiment, build, evaluate, and share what I disc
 <div align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <a href="mailto:sinthuu07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### 💭 Building. Learning. Experimenting. Sharing.
 
-**⭐ Always open to interesting AI/ML projects, collaborations, and opportunities.**
+⭐ **Always open to interesting AI/ML projects, collaborations and opportunities.**
 
 </div>
