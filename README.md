@@ -2,17 +2,8 @@
 
 # 👋 Hi, I'm Sinthujan S.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-Views"/>font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+in+the+Making;Building+Agentic+AI+Systems;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Building+Intelligent+Developer+Tools;Turning+AI+Ideas+Into+Real+Systems" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
